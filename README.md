@@ -1,4 +1,4 @@
 # git-collab-repo
 This is my first git repository.
 <br>
-Author- Rinku Metaliya
+Author- Rinku (gec Rajkot)
